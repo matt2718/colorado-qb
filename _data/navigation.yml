@@ -1,7 +1,7 @@
 # main links
-main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+# main:
+  # - title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,19 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+linkbar:
+  - title: "Information"
+    children:
+      - title: "What is Quiz Bowl?"
+        url: /info/what-is-qb/
+      - title: "Rules and Gameplay"
+        url: /info/rules/
+      - title: "Differences from Knowledge Bowl"
+        url: /info/knowledge-bowl-comparison/
+      - title: "Starting a Team"
+        url: /info/start-a-team/
+      - title: "Pyramidal Questions"
+        url: /info/pyramidal
+      - title: "Quiz Bowl Resources"
+        url: /info/resources/

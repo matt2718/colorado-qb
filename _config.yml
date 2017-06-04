@@ -240,7 +240,21 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
+  # _info
+  - scope:
+      path: ""
+      type: info
+    values:
+      layout: single
+      author_profile: false
+      sidebar:
+        nav: "linkbar"
+
+collections:
+  info:
+    output: true
+    permalink: /:collection/:path/
