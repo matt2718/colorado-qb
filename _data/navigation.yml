@@ -15,7 +15,7 @@ linkbar:
         url: /info/resources/
   - title: "Tournaments"
     children:
-      - title: "Upcoming Colorado Tournaments"
+      - title: "Upcoming Tournaments in CO"
         url: /tournaments/upcoming/
       - title: "Host a Tournament"
         url: /tournaments/hosting/

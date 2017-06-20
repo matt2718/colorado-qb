@@ -8,10 +8,6 @@
   margin-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.35s;
-          animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -113,10 +109,6 @@
   position: relative;
   margin-bottom: 2em;
   @include clearfix;
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.25s;
-          animation-delay: 0.25s;
 
   &--overlay {
     position: relative;
@@ -126,10 +118,6 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    -webkit-animation: intro 0.3s both;
-            animation: intro 0.3s both;
-    -webkit-animation-delay: 0.25s;
-            animation-delay: 0.25s;
 
     a {
       color: #fff;
@@ -303,8 +291,6 @@
 .page__comments-form {
   padding: 1em;
   background: $lighter-gray;
-  -webkit-transition: $global-transition;
-  transition: $global-transition;
 
   &.disabled {
     input,

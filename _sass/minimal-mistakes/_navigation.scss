@@ -14,10 +14,6 @@
   padding-left: 2em;
   padding-right: 2em;
   font-family: $sans-serif;
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.30s;
-          animation-delay: 0.30s;
 
   @include breakpoint($large) {
     padding-left: 1em;
@@ -239,8 +235,6 @@
         height: 4px;
         background: mix(#fff, $primary-color, 50%);
         width: 100%;
-        -webkit-transition: $global-transition;
-        transition: $global-transition;
         -webkit-transform: scaleX(0) translate3d(0, 0 , 0);
                 transform: scaleX(0) translate3d(0, 0 , 0); /* hide*/
       }
@@ -341,8 +335,6 @@
       border: 1px solid $light-gray;
       border-radius: $border-radius;
       z-index: 20;
-      -webkit-transition: 0.2s ease-out;
-      transition: 0.2s ease-out;
       cursor: pointer;
 
       &:before,
@@ -355,8 +347,6 @@
         height: 0.125em;
         line-height: 1;
         background-color: $gray;
-        -webkit-transition: 0.2s ease-out;
-        transition: 0.2s ease-out;
       }
 
       &:after {
@@ -449,8 +439,6 @@
     opacity: 0%;
     overflow: hidden;
     z-index: 10;
-    -webkit-transition: 0.3s ease-in-out;
-    transition: 0.3s ease-in-out;
     -webkit-transform: translate(0, 10%);
             -ms-transform: translate(0, 10%);
         transform: translate(0, 10%);
@@ -459,8 +447,6 @@
 
 @include breakpoint(max-width ($large - 1px)) {
   .nav__list input:checked ~ .nav__items {
-    -webkit-transition: 0.5s ease-in-out;
-    transition: 0.5s ease-in-out;
     max-height: 9999px; /* exaggerate max-height to accommodate tall lists*/
     overflow: visible;
     opacity: 1;
