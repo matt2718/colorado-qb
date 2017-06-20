@@ -233,21 +233,8 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: # true
-      share: true
-      related: true
-  # _info
-  - scope:
-      path: ""
-      type: info
     values:
       layout: single
       author_profile: false
