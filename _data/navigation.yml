@@ -1,16 +1,3 @@
-# main links
-# main:
-  # - title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-
 linkbar:
   - title: "Information"
     children:
@@ -29,8 +16,8 @@ linkbar:
   - title: "Tournaments"
     children:
       - title: "Upcoming Colorado Tournaments"
-        url: /info/upcoming/
+        url: /tournaments/upcoming/
       - title: "Host a Tournament"
-        url: /info/host-a-tournament/
+        url: /tournaments/hosting/
       - title: "National Championships"
-        url: /info/nationals/
+        url: /tournaments/nationals/
