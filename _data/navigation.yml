@@ -21,3 +21,9 @@ linkbar:
         url: /tournaments/hosting/
       - title: "National Championships"
         url: /tournaments/nationals/
+  - title: "More"
+    children:
+      - title: "Our Blog"
+        url: /blog/allposts/
+      - title: "Contact"
+        url: /more/contact/

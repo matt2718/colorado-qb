@@ -1,0 +1,13 @@
+---
+title: "Main Page"
+---
+Hello. This is a website to coordinate quiz bowl in Colorado and provide a central repository of information. More stuff should be added here before the site goes public.
+
+<h2>Blog</h2>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
