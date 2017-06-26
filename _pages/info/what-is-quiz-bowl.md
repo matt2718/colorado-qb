@@ -2,12 +2,18 @@
 title: "What is Quiz Bowl?"
 permalink: /info/what-is-qb/
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam feugiat pellentesque justo, eu malesuada tortor vestibulum nec. Proin malesuada tellus eget facilisis blandit. Etiam sit amet venenatis augue. In non euismod nibh, vitae aliquet leo. Curabitur malesuada lacus a congue gravida. Ut gravida velit a congue sodales. Phasellus velit nisi, ullamcorper a turpis eu, tristique pharetra ipsum. Nullam venenatis maximus aliquet. Fusce erat velit, egestas in turpis dignissim, pulvinar suscipit augue. Curabitur rhoncus, lectus non semper vehicula, ligula tortor vulputate nunc, vel aliquet lacus dui eu lorem.
 
-Aenean sit amet orci nec libero rutrum mollis. Maecenas accumsan semper tortor, id vestibulum est convallis ut. Fusce rhoncus a massa nec finibus. Cras eu turpis consectetur erat mollis accumsan. Praesent convallis lacus sed massa dictum lacinia. Sed ut est efficitur, pretium orci quis, laoreet nisl. Etiam imperdiet nunc ligula, vitae dignissim orci sollicitudin vitae. Aliquam tempus, nibh at varius iaculis, lectus ex facilisis tortor, ac pretium mi neque vel sapien. Quisque a sem at turpis viverra maximus in vitae sapien.
+Quiz bowl is a quiz game played between at least two teams challenged to answer
+questions about a variety of academic subjects. It is often the game that comes
+to mind in pop culture when one thinks of quiz games, with variations of the game
+being broadcast on television and radio for the last fifty years, including the
+famous CBS show *College Bowl* and most recently on the Canadian *Reach for the Top*
+and the UK's *University Challenge*. The game as it is played today
+originated in 1953, and variations are played at the elementary school level through
+the university level. Players are given lockout-style buzzers, meaning that the first
+to buzz is the first to answer. Teams are made up of typically four to five members
+with questions read by a moderator.
 
-Quisque eleifend interdum sapien, at volutpat tellus euismod eget. Sed imperdiet neque in metus sollicitudin elementum. Nulla pharetra ullamcorper consectetur. Vivamus quis dapibus mauris. Quisque sit amet dolor at nisi posuere consequat quis eget purus. Sed sed faucibus nisl. In purus nunc, ultricies ac nisl at, ullamcorper laoreet arcu. Vestibulum at nisl nec lacus molestie molestie sed quis urna. Ut quis euismod felis, at aliquet nisi. Mauris metus tellus, interdum quis gravida sed, commodo nec mi.
-
-Suspendisse eget rhoncus urna. Curabitur scelerisque sit amet erat quis blandit. Nam ac porttitor odio, id consectetur magna. Proin sed nibh semper tortor varius laoreet. Praesent eget placerat magna, a consequat tortor. Sed ornare tellus nisl, sed scelerisque purus facilisis eu. Nullam dignissim lacus non quam tempus luctus. Nulla dignissim luctus ex vitae semper. Aliquam in felis dictum, commodo quam malesuada, faucibus lorem. Proin vitae metus ut urna venenatis facilisis. Integer ullamcorper arcu in neque luctus ultrices. Vestibulum vitae erat eget massa semper interdum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi suscipit magna est, ullamcorper ornare augue bibendum nec. Mauris egestas, leo at gravida sollicitudin, nunc turpis euismod sapien, sit amet viverra augue orci sed sem. Etiam finibus efficitur porttitor.
-
-Maecenas vehicula, purus blandit egestas rutrum, enim nisl suscipit odio, eu commodo arcu purus a nisl. Nam at sapien vel ante congue elementum eu a orci. Duis id ex sit amet ipsum sagittis mattis. Integer justo augue, aliquet quis dictum in, maximus non sem. Sed semper sem sed justo volutpat dapibus. Fusce nec est non purus consequat finibus. Maecenas congue est risus, iaculis facilisis odio sodales ut. Duis libero sapien, fringilla ac tristique id, scelerisque sed erat. Quisque finibus, lacus at fermentum pharetra, diam arcu condimentum purus, ac condimentum eros elit blandit diam. Mauris tortor lorem, accumsan sit amet quam sed, commodo fringilla ligula. Morbi rutrum tellus ut neque dapibus, eget tincidunt tortor venenatis. Aliquam erat volutpat. Pellentesque facilisis magna sit amet tincidunt dictum. Proin sed ornare arcu. Duis urna tellus, bibendum eu tincidunt vitae, scelerisque sit amet tortor. Suspendisse dignissim risus at lobortis scelerisque. 
+The questions themselves are about a variety of subjects, striking a balance
+between rigorous academic questions and questions about current events and popular
+culture, encouraging teams to be made up of players with diverse backgrounds.
