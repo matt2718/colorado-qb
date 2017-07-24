@@ -1,5 +1,5 @@
 ---
-title: "What are \"pyramidal\" questions?"
+title: "What are \"Pyramidal\" Questions?"
 permalink: /info/pyramidal/
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam feugiat pellentesque justo, eu malesuada tortor vestibulum nec. Proin malesuada tellus eget facilisis blandit. Etiam sit amet venenatis augue. In non euismod nibh, vitae aliquet leo. Curabitur malesuada lacus a congue gravida. Ut gravida velit a congue sodales. Phasellus velit nisi, ullamcorper a turpis eu, tristique pharetra ipsum. Nullam venenatis maximus aliquet. Fusce erat velit, egestas in turpis dignissim, pulvinar suscipit augue. Curabitur rhoncus, lectus non semper vehicula, ligula tortor vulputate nunc, vel aliquet lacus dui eu lorem.
