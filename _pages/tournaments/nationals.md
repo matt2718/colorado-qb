@@ -2,12 +2,45 @@
 title: "National Quiz Bowl Championships"
 permalink: /tournaments/nationals/
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam feugiat pellentesque justo, eu malesuada tortor vestibulum nec. Proin malesuada tellus eget facilisis blandit. Etiam sit amet venenatis augue. In non euismod nibh, vitae aliquet leo. Curabitur malesuada lacus a congue gravida. Ut gravida velit a congue sodales. Phasellus velit nisi, ullamcorper a turpis eu, tristique pharetra ipsum. Nullam venenatis maximus aliquet. Fusce erat velit, egestas in turpis dignissim, pulvinar suscipit augue. Curabitur rhoncus, lectus non semper vehicula, ligula tortor vulputate nunc, vel aliquet lacus dui eu lorem.
 
-Aenean sit amet orci nec libero rutrum mollis. Maecenas accumsan semper tortor, id vestibulum est convallis ut. Fusce rhoncus a massa nec finibus. Cras eu turpis consectetur erat mollis accumsan. Praesent convallis lacus sed massa dictum lacinia. Sed ut est efficitur, pretium orci quis, laoreet nisl. Etiam imperdiet nunc ligula, vitae dignissim orci sollicitudin vitae. Aliquam tempus, nibh at varius iaculis, lectus ex facilisis tortor, ac pretium mi neque vel sapien. Quisque a sem at turpis viverra maximus in vitae sapien.
+## College
 
-Quisque eleifend interdum sapien, at volutpat tellus euismod eget. Sed imperdiet neque in metus sollicitudin elementum. Nulla pharetra ullamcorper consectetur. Vivamus quis dapibus mauris. Quisque sit amet dolor at nisi posuere consequat quis eget purus. Sed sed faucibus nisl. In purus nunc, ultricies ac nisl at, ullamcorper laoreet arcu. Vestibulum at nisl nec lacus molestie molestie sed quis urna. Ut quis euismod felis, at aliquet nisi. Mauris metus tellus, interdum quis gravida sed, commodo nec mi.
+For various reasons (mostly historical), collegiate quiz bowl has multiple national championships each year.
 
-Suspendisse eget rhoncus urna. Curabitur scelerisque sit amet erat quis blandit. Nam ac porttitor odio, id consectetur magna. Proin sed nibh semper tortor varius laoreet. Praesent eget placerat magna, a consequat tortor. Sed ornare tellus nisl, sed scelerisque purus facilisis eu. Nullam dignissim lacus non quam tempus luctus. Nulla dignissim luctus ex vitae semper. Aliquam in felis dictum, commodo quam malesuada, faucibus lorem. Proin vitae metus ut urna venenatis facilisis. Integer ullamcorper arcu in neque luctus ultrices. Vestibulum vitae erat eget massa semper interdum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi suscipit magna est, ullamcorper ornare augue bibendum nec. Mauris egestas, leo at gravida sollicitudin, nunc turpis euismod sapien, sit amet viverra augue orci sed sem. Etiam finibus efficitur porttitor.
+### ICT and CCCT
 
-Maecenas vehicula, purus blandit egestas rutrum, enim nisl suscipit odio, eu commodo arcu purus a nisl. Nam at sapien vel ante congue elementum eu a orci. Duis id ex sit amet ipsum sagittis mattis. Integer justo augue, aliquet quis dictum in, maximus non sem. Sed semper sem sed justo volutpat dapibus. Fusce nec est non purus consequat finibus. Maecenas congue est risus, iaculis facilisis odio sodales ut. Duis libero sapien, fringilla ac tristique id, scelerisque sed erat. Quisque finibus, lacus at fermentum pharetra, diam arcu condimentum purus, ac condimentum eros elit blandit diam. Mauris tortor lorem, accumsan sit amet quam sed, commodo fringilla ligula. Morbi rutrum tellus ut neque dapibus, eget tincidunt tortor venenatis. Aliquam erat volutpat. Pellentesque facilisis magna sit amet tincidunt dictum. Proin sed ornare arcu. Duis urna tellus, bibendum eu tincidunt vitae, scelerisque sit amet tortor. Suspendisse dignissim risus at lobortis scelerisque. 
+The [Intercollegiate Championship Tournament](https://www.naqt.com/ict/) (ICT) is written and hosted by NAQT. Teams qualify based on their performance at one of NAQT's Sectional Championship Tournaments (SCTs).
+
+Community colleges can also qualify for NAQT's [Community College Championship Tournament](https://www.naqt.com/ccct/) (CCCT).
+
+### ACF Nationals
+
+[ACF Nationals](https://acf-quizbowl.com/aboutus/) is hosted annually by ACF. Unlike ICT, ACF Nationals is untimed, contains no pop-culture or sports, and requires teams to submit a packet. Teams qualify based on their performance at an ACF Regionals tournament.
+
+### Chicago Open
+
+Though not a true "collegiate" tournament, the Chicago Open is worth mentioning. Held annually at the University of Chicago, the tournament is open to all players---college students, former players, and even high schoolers (though the last case is rare). It is generally considered the most difficult tournament in all of quiz bowl. Any group of people may form a team, though packet submission is required.
+
+## High School
+
+Like college quiz bowl, high school quiz bowl has several national tournaments.
+
+### HSNCT and SSNCT
+
+The [High School National Championship Tournament](https://www.naqt.com/hsnct/) (HSNCT) is hosted by NAQT. HSNCT is the largest tournament in quiz bowl, with a field size of roughly 300 teams. The tournament uses timed rounds, and the distribution is similar to that of NAQT's regular sets (though the questions are harder). Teams can qualify by placing in the top 15% of any tournament that uses NAQT questions.
+
+In addition to HSNCT, schools that meet [NAQT's definition of a "small school"](https://www.naqt.com/hs/small-school.html) can qualify for the [Small School National Championship Tournament](https://www.naqt.com/ssnct/) (SSNCT). This can be accomplished by finishing in the top 30% of teams from small schools in any tournament using NAQT questions. Teams from small schools that qualify for HSNCT will also qualify for SSNCT.
+
+### NSC
+
+The [National Scholastic Championship](http://www.pace-nsc.org/pace-nsc-2018-june-2-3-washington-dc/) (NSC) is hosted by PACE. It is of comparable difficult to HSNCT, but with several notable differences. NSC packets have slightly more fine arts than HSNCT, and they contains no questions on pop-culture or sports. In addition, NSC features untimed rounds and "bounceback" bonuses (where if a team gets a bounus part wrong, their opponent has a chance to answer). Teams qualify for NSC by placing in the top 10-25% at a PACE-certified tournament (the exact cutoff depends on the level of certification).
+
+### NASAT
+
+The [National All-Star Academic Tournament](http://hsquizbowl.org/forums/viewtopic.php?f=2&t=19239) (NASAT) is hosted by HSAPQ. Unlike HSNCT and NSC, teams are composed of the top players from each state. It features very difficult questions (comparable to college regionals) and is considered the hardest tournament in high school quiz bowl. If you are interested in playing for Colorado, please contact us.
+
+## Middle School
+
+### MSNCT
+
+NAQT hosts the [Middle School National Championship Tournament](https://www.naqt.com/msnct/) (MSNCT), the middle school equlivalent of HSNCT. Teams can qualify by placing in the top 15% of any middle school tournament with NAQT questions.

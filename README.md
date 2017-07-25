@@ -2,7 +2,7 @@
 
 The main point of this website is to consolidate information on quiz bowl in Colorado, and provide an authoritative resource for players and coaches.
 
-The site is at [http://coloradoqb.org] It's not finished yet, so I've configured it to prevent indexing by search engines. When we're ready to release, I'll update `robots.txt`, post a link to it somewhere, and let Google work its magic.
+The site is at http://coloradoqb.org. It's not finished yet, so I've configured it to prevent indexing by search engines. When we're ready to release, I'll update `robots.txt`, post a link to it somewhere, and let Google work its magic.
 
 ## How this site is built
 
