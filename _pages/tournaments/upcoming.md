@@ -3,7 +3,9 @@ title: "Upcoming Colorado Tournaments"
 permalink: /tournaments/upcoming/
 ---
 
-Want your tournament added to the list? Send an email to [matt@coloradoqb.org](matt@coloradoqb.org) containing the name, date, and location of your tournament, as well as a short description and contact info for prospective teams.
+Want your tournament added to the list? Send an email to <matt@coloradoqb.org>
+containing the name, date, and location of your tournament, a short description,
+and contact info for prospective teams.
 
 ## College Tournaments
 
