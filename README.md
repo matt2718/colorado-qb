@@ -44,9 +44,8 @@ When writing for this site, try to adhere to the following conventions:
   "Quizbowl" should only be when quoting (e.g. "as Bob once wrote, 'Quizbowl is
   awesome!'") or in proper names (e.g. "Missouri Quizbowl Alliance").
 
-* Never write in first person singular, except in blog posts (and even then, try
-  to avoid it). You are writing on behalf of Colorado Quiz Bowl; if you need to
-  speak in the first person, use "we".
+* Never write in first person singular. You are writing on behalf of Colorado
+  Quiz Bowl; if you need to speak in the first person, use "we".
 
 * When referring to an *non-specific* person, use they/them/their. I'm not
   trying to force my views about gender-neutral language on anyone else; I'd
@@ -57,5 +56,14 @@ When writing for this site, try to adhere to the following conventions:
   Idaho and Utah"). I know this is a contentious issue, but again, it's about
   consistency.
 
+* When you link to another page on this site, do not include the domain name.
+  `[rules](/info/rules/)` is right. `[rules](http://coloradoqb.org/info/rules/)`
+  is wrong. This is because:
+  *  It makes the sight harder to preview locally before pushing changes, as
+     clicking on links will take you to the public version.
+  *  If we ever move the site to a different domain, or if another quiz bowl
+     organization bases their site on ours, the links will have to be re-written
+     manually.
+  
 * I recommend limiting your line width to 80 characters for ease of editing, but
   this part isn't super important.
