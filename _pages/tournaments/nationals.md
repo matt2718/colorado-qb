@@ -20,9 +20,9 @@ Tournament](https://www.naqt.com/ccct/) (CCCT).
 ### ACF Nationals
 
 [ACF Nationals](https://acf-quizbowl.com/aboutus/) is hosted annually by ACF.
-Unlike ICT, ACF Nationals is untimed, contains no pop-culture or sports, and
+Unlike ICT, ACF Nationals is untimed, contains no pop culture or sports, and
 requires teams to submit a packet. Teams qualify based on their performance at
-the previous ACF Regionals tournament.
+the preceding ACF Regionals tournament.
 
 ### Chicago Open
 
@@ -30,8 +30,8 @@ Though not a true "collegiate" tournament, the Chicago Open is worth mentioning.
 Held annually at the University of Chicago, the tournament is open to all
 players---college students, former players, and even high schoolers (though the
 last case is rare). It is generally considered the most difficult tournament in
-all of quiz bowl. Any group of people may form a team, though packet submission
-is required.
+all of quiz bowl. Any group of people may form a team, and packet submission is
+required.
 
 ## High School
 
@@ -58,11 +58,12 @@ will also qualify for SSNCT.
 The [National Scholastic Championship](http://www.pace-nsc.org/pace-nsc-2018-
 june-2-3-washington-dc/) (NSC) is hosted by PACE. It is of comparable difficult
 to HSNCT, but with several notable differences. NSC packets have slightly more
-fine arts than HSNCT, and they contains no questions on pop-culture or sports.
-In addition, NSC features untimed rounds and "bounceback" bonuses (where if a
-team gets a bounus part wrong, their opponent has a chance to answer). Teams
-qualify for NSC by placing in the top 10-25% at a PACE-certified tournament (the
-exact cutoff depends on the level of certification).
+fine arts than HSNCT, and they contains no questions on pop culture or sports.
+In addition, NSC features untimed rounds, no negs, 20-point powers, and
+"bounceback" bonuses (where if a team gets a bounus part wrong, their opponent
+has a chance to answer). Teams qualify for NSC by placing in the top 10-25% at
+a PACE-certified tournament (the exact cutoff depends on the level of
+certification).
 
 ### NASAT
 
@@ -79,5 +80,5 @@ for Colorado, contact us.
 
 NAQT hosts the [Middle School National Championship Tournament](https://
 www.naqt.com/msnct/) (MSNCT), the middle school equlivalent of HSNCT. Teams can
-qualify by placing in the top 15% of any middle school tournament with NAQT
+qualify by placing in the top 15% of any middle school tournament that uses NAQT
 questions.

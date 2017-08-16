@@ -3,18 +3,39 @@ title: "What is Quiz Bowl?"
 permalink: /info/what-is-qb/
 ---
 
-Quiz bowl is a quiz game played between at least two teams challenged to answer
-questions about a variety of academic subjects. It is often the game that comes
-to mind in pop culture when one thinks of quiz games, with variations of the
-game being broadcast on television and radio for the last fifty years, including
-the famous CBS show *College Bowl* and most recently on the Canadian *Reach for
-the Top* and the UK's *University Challenge*. The game as it is played today
-originated in 1953, and variations are played at the elementary school level
-through the university level. Players are given lockout-style buzzers, meaning
-that the first to buzz is the first to answer. Teams are made up of typically
-four to five members with questions read by a moderator.
+Quiz bowl (or "quizbowl") is a quiz game played between two teams, in which
+players are challenged to answer questions about a variety of academic subjects.
+It is played at middle school, high school, and collegiate levels. The game
+bears a resemblance to televised quiz shows like *Jeopardy*, but with several
+[important differences](/info/pyramidal).
 
-The questions themselves are about a variety of subjects, striking a balance
-between rigorous academic questions and questions about current events and
-popular culture, encouraging teams to be made up of players with diverse
-backgrounds.
+Though the term "quiz bowl" sometimes refers to buzzer-based academic
+competitions in general, it usually denotes a specific [tossup-bonus format](
+/info/rules) with [pyramidal questions](/info/pyramidal).
+
+## Subjects
+
+The questions cover a wide variety of academic subjects, encouraging teams with
+diverse backgrounds and knowledge sets. Quiz bowl packets contain questions on:
+
+* Literature
+* Science
+* History
+* Art
+* Music
+* Philosophy
+* Mythology
+* Religions
+* Social science
+* Geography
+* Current events
+* Pop culture
+
+## Why play quiz bowl?
+
+* **It's fun!**
+* It rewards intellectual curiosity and exposes students to new topics.
+* It encourages students to be well-informed citizens.
+* It promotes teamwork.
+* Starting a team is easy. All you need is a few interested players and some
+  [packets](http://quizbowlpackets.com/).
