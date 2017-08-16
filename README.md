@@ -36,5 +36,26 @@ your page on the sidebar, add an entry to `_data/navigation.yml`.
 If you want to insert a blog post, just shove it in the `_posts` directory. Make
 sure you format the filename the way Jekyll requires.
 
-I recommend limiting your line width to 80 characters for ease of editing, but
-it's not super important.
+## Style Guide
+
+When writing for this site, try to adhere to the following conventions:
+
+* In the interest of consistency, "quiz bowl" should always be 2 words.
+  "Quizbowl" should only be when quoting (e.g. "as Bob once wrote, 'Quizbowl is
+  awesome!'") or in proper names (e.g. "Missouri Quizbowl Alliance").
+
+* Never write in first person singular, except in blog posts (and even then, try
+  to avoid it). You are writing on behalf of Colorado Quiz Bowl; if you need to
+  speak in the first person, use "we".
+
+* When referring to an *non-specific* person, use they/them/their. I'm not
+  trying to force my views about gender-neutral language on anyone else; I'd
+  just like a consistent writing style. No one wants a site that uses "he" in
+  one part, "she" in another, "he/she" in a third, and "they" in a fourth.
+
+* Use Oxford commas (e.g. "Colorado, Idaho, and Utah" instead of "Colorado,
+  Idaho and Utah"). I know this is a contentious issue, but again, it's about
+  consistency.
+
+* I recommend limiting your line width to 80 characters for ease of editing, but
+  this part isn't super important.
