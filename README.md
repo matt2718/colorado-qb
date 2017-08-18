@@ -59,7 +59,7 @@ When writing for this site, try to adhere to the following conventions:
 * When you link to another page on this site, do not include the domain name.
   `[rules](/info/rules/)` is right. `[rules](http://coloradoqb.org/info/rules/)`
   is wrong. This is because:
-  *  It makes the sight harder to preview locally before pushing changes, as
+  *  It makes the site harder to preview locally before pushing changes, as
      clicking on links will take you to the public version.
   *  If we ever move the site to a different domain, or if another quiz bowl
      organization bases their site on ours, the links will have to be re-written
