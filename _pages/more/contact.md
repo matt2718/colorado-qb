@@ -2,9 +2,10 @@
 title: "Contact Us"
 permalink: /more/contact/
 ---
-Please direct all questions, comments, concerns, tournament announcements, angry
-rants, and offers for free pizza to Colorado QB webmaster Matt Mitchell
-(<matt@coloradoqb.org>).
+Tournament announcements should be sent to <hosting@coloradoqb.org>.
+
+Please direct all questions, comments, concerns, angry rants, and offers for
+free pizza to Colorado QB webmaster Matt Mitchell (<matt@coloradoqb.org>).
 
 ## Contributing
 
