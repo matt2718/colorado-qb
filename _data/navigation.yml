@@ -17,10 +17,10 @@ linkbar:
     children:
       - title: "Upcoming Tournaments in CO"
         url: /tournaments/upcoming/
-      - title: "Host a Tournament"
-        url: /tournaments/hosting/
       - title: "National Championships"
         url: /tournaments/nationals/
+      - title: "Tournament Hosting Guide"
+        url: /tournaments/hosting/
   - title: "More"
     children:
       - title: "Our Blog"
