@@ -3,6 +3,12 @@ title: "How to Run a Quizbowl Tournament: A Guide"
 permalink: /tournaments/hosting/
 ---
 
+*NOTE: This is an exhaustive guide that covers every aspect of running a
+tournament. If you're looking for a quick overview, see
+[this](https://www.ocf.berkeley.edu/~quizbowl/tdguide.html),
+[this](https://www.qbwiki.com/wiki/How_to_run_a_high_school_tournament), or
+[this](https://www.qbwiki.com/wiki/Common_Tournament_Directing_Mistakes).*
+
 [Originally written](http://www.socalquizbowl.org/tournament-hosting-guide/) by
 Chris Chiego and the SoCalQuizBowl.org staff. Reprinted with permission.
 

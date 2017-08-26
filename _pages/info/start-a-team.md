@@ -2,12 +2,80 @@
 title: "Starting a Quiz Bowl Team"
 permalink: /info/start-a-team/
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam feugiat pellentesque justo, eu malesuada tortor vestibulum nec. Proin malesuada tellus eget facilisis blandit. Etiam sit amet venenatis augue. In non euismod nibh, vitae aliquet leo. Curabitur malesuada lacus a congue gravida. Ut gravida velit a congue sodales. Phasellus velit nisi, ullamcorper a turpis eu, tristique pharetra ipsum. Nullam venenatis maximus aliquet. Fusce erat velit, egestas in turpis dignissim, pulvinar suscipit augue. Curabitur rhoncus, lectus non semper vehicula, ligula tortor vulputate nunc, vel aliquet lacus dui eu lorem.
 
-Aenean sit amet orci nec libero rutrum mollis. Maecenas accumsan semper tortor, id vestibulum est convallis ut. Fusce rhoncus a massa nec finibus. Cras eu turpis consectetur erat mollis accumsan. Praesent convallis lacus sed massa dictum lacinia. Sed ut est efficitur, pretium orci quis, laoreet nisl. Etiam imperdiet nunc ligula, vitae dignissim orci sollicitudin vitae. Aliquam tempus, nibh at varius iaculis, lectus ex facilisis tortor, ac pretium mi neque vel sapien. Quisque a sem at turpis viverra maximus in vitae sapien.
+*NOTE: In addition to this page, we recommend reading NAQT's
+[guides](https://www.naqt.com/resources/development.html) for new teams, as well
+as this [article](https://gpqb.wordpress.com/how-do-i-start-a-quiz-bowl-team/)
+by Greater Pennsylvania Quiz Bowl*
 
-Quisque eleifend interdum sapien, at volutpat tellus euismod eget. Sed imperdiet neque in metus sollicitudin elementum. Nulla pharetra ullamcorper consectetur. Vivamus quis dapibus mauris. Quisque sit amet dolor at nisi posuere consequat quis eget purus. Sed sed faucibus nisl. In purus nunc, ultricies ac nisl at, ullamcorper laoreet arcu. Vestibulum at nisl nec lacus molestie molestie sed quis urna. Ut quis euismod felis, at aliquet nisi. Mauris metus tellus, interdum quis gravida sed, commodo nec mi.
+Starting a team is easy! Just get some interested players together, find some
+[packets](quizbowlpackets.com) to practice on, and find out when the next
+[tournament](/tournaments/upcoming) is.
 
-Suspendisse eget rhoncus urna. Curabitur scelerisque sit amet erat quis blandit. Nam ac porttitor odio, id consectetur magna. Proin sed nibh semper tortor varius laoreet. Praesent eget placerat magna, a consequat tortor. Sed ornare tellus nisl, sed scelerisque purus facilisis eu. Nullam dignissim lacus non quam tempus luctus. Nulla dignissim luctus ex vitae semper. Aliquam in felis dictum, commodo quam malesuada, faucibus lorem. Proin vitae metus ut urna venenatis facilisis. Integer ullamcorper arcu in neque luctus ultrices. Vestibulum vitae erat eget massa semper interdum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi suscipit magna est, ullamcorper ornare augue bibendum nec. Mauris egestas, leo at gravida sollicitudin, nunc turpis euismod sapien, sit amet viverra augue orci sed sem. Etiam finibus efficitur porttitor.
+If you have any questions, please contact us at
+<info@coloradoqb.org>. We're happy to help, and if possible, we can
+send out a current player to help you get set up.
 
-Maecenas vehicula, purus blandit egestas rutrum, enim nisl suscipit odio, eu commodo arcu purus a nisl. Nam at sapien vel ante congue elementum eu a orci. Duis id ex sit amet ipsum sagittis mattis. Integer justo augue, aliquet quis dictum in, maximus non sem. Sed semper sem sed justo volutpat dapibus. Fusce nec est non purus consequat finibus. Maecenas congue est risus, iaculis facilisis odio sodales ut. Duis libero sapien, fringilla ac tristique id, scelerisque sed erat. Quisque finibus, lacus at fermentum pharetra, diam arcu condimentum purus, ac condimentum eros elit blandit diam. Mauris tortor lorem, accumsan sit amet quam sed, commodo fringilla ligula. Morbi rutrum tellus ut neque dapibus, eget tincidunt tortor venenatis. Aliquam erat volutpat. Pellentesque facilisis magna sit amet tincidunt dictum. Proin sed ornare arcu. Duis urna tellus, bibendum eu tincidunt vitae, scelerisque sit amet tortor. Suspendisse dignissim risus at lobortis scelerisque. 
+## Questions
+
+The [packet archives](quizbowlpackets.com) is a virtually unlimited source of
+free, high-quiality practice material for all levels of quiz bowl. [This
+guide](https://cbreach.wordpress.com/packet-categorization/) provides an
+excellent (albeit slightly dated) overview of various sets' difficulty.
+
+[NAQT](https://www.naqt.com/practice-questions.jsp) also sells their
+old questions as practice material.
+
+## Coaches/Advisors
+
+High school and middle school teams generally need a teacher or parent to handle
+administrative tasks, coordinate transportation, and take responsibility for the
+players.
+
+Many college teams entirely are student-run, but a faculty advisor can help with
+many administrative aspects of running a team.
+
+## Buzzers
+
+While not strictly necessary, a buzzer system is highly recommended for any
+team. Buzzers make practice more lively and more like an actual tournament
+match. In addition, quiz bowl tournaments offer discounts for teams that bring
+buzzers.
+
+Here are some points to keep in mind when buying a buzzer system:
+
+* Many tournaments require wired systems and will not give discounts for
+  wireless ones (due to the potential for lag).
+* Avoid systems without lights on the individual buzzers. These require the
+  moderator to verbally recognize each player before they answer, which slows
+  down games.
+* Battery powered systems may fail during tournaments; it's better to buy a
+  plug-in one.
+
+The most commonly recommended system is the [Anderson
+Officiator](http://www.andersonbuzzersystems.com/tabletop.html). It's easy to
+set up, reliable, and relatively inexpensive.
+
+If your team has difficulty affording a buzzer system, check out [Matt's
+Buzzers](http://mattsbuzzers.com/Home.php).
+
+## Finding Tournaments
+
+COQB keeps an [list](/tournaments/upcoming) of all upcoming
+tournaments in Colorado. Announcements can also be found on the HSQB
+[forums](http://hsquizbowl.org/forums/index.php) and [tournament
+database](http://hsquizbowl.org/db/).
+
+Greater Pennsylvania Quiz Bowl has a useful [guide](https://gpqb.wordpress.com/
+2015/06/28/going-to-quizbowl-tournaments-how-it-works/) for teams attending
+their first tournament.
+
+## Funding
+
+Fortunately, quiz bowl far is cheaper than most interscholastic
+competitions. Most tournaments have affordable entrance fees, and many will
+offer discounts to new teams. However, as expenses add up over time (especially
+for teams that wish to attend national tournaments), many teams will need to
+fundraise. For experienced teams, [hosting a tournament](/tournaments/hosting)
+is a great way to do this. In addition, many colleges (and possibly some high
+schools) allow student groups to apply for funding.
