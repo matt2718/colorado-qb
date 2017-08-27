@@ -2,12 +2,63 @@
 title: "How is Quiz Bowl Different from Knowledge Bowl?"
 permalink: /info/knowledge-bowl-comparison/
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam feugiat pellentesque justo, eu malesuada tortor vestibulum nec. Proin malesuada tellus eget facilisis blandit. Etiam sit amet venenatis augue. In non euismod nibh, vitae aliquet leo. Curabitur malesuada lacus a congue gravida. Ut gravida velit a congue sodales. Phasellus velit nisi, ullamcorper a turpis eu, tristique pharetra ipsum. Nullam venenatis maximus aliquet. Fusce erat velit, egestas in turpis dignissim, pulvinar suscipit augue. Curabitur rhoncus, lectus non semper vehicula, ligula tortor vulputate nunc, vel aliquet lacus dui eu lorem.
 
-Aenean sit amet orci nec libero rutrum mollis. Maecenas accumsan semper tortor, id vestibulum est convallis ut. Fusce rhoncus a massa nec finibus. Cras eu turpis consectetur erat mollis accumsan. Praesent convallis lacus sed massa dictum lacinia. Sed ut est efficitur, pretium orci quis, laoreet nisl. Etiam imperdiet nunc ligula, vitae dignissim orci sollicitudin vitae. Aliquam tempus, nibh at varius iaculis, lectus ex facilisis tortor, ac pretium mi neque vel sapien. Quisque a sem at turpis viverra maximus in vitae sapien.
+## Questions
 
-Quisque eleifend interdum sapien, at volutpat tellus euismod eget. Sed imperdiet neque in metus sollicitudin elementum. Nulla pharetra ullamcorper consectetur. Vivamus quis dapibus mauris. Quisque sit amet dolor at nisi posuere consequat quis eget purus. Sed sed faucibus nisl. In purus nunc, ultricies ac nisl at, ullamcorper laoreet arcu. Vestibulum at nisl nec lacus molestie molestie sed quis urna. Ut quis euismod felis, at aliquet nisi. Mauris metus tellus, interdum quis gravida sed, commodo nec mi.
+Knowledge Bowl features shorter questions, usually two or three sentences. In
+quiz bowl, the questions are generally longer--around a paragraph---and the
+clues are listed from **hardest to easiest** (more [here](/info/pyramidal)).
+This means that if a player knows more about a given subject, they can buzz in
+before a player with less knowledge. For example, a player who has studied
+several of Tchaikovsky's works is more likely to get a question on him than
+someone who has only heard of the 1812 Overture. With shorter questions, the
+more knowledgeable player will frequently be beaten in a buzzer race.
 
-Suspendisse eget rhoncus urna. Curabitur scelerisque sit amet erat quis blandit. Nam ac porttitor odio, id consectetur magna. Proin sed nibh semper tortor varius laoreet. Praesent eget placerat magna, a consequat tortor. Sed ornare tellus nisl, sed scelerisque purus facilisis eu. Nullam dignissim lacus non quam tempus luctus. Nulla dignissim luctus ex vitae semper. Aliquam in felis dictum, commodo quam malesuada, faucibus lorem. Proin vitae metus ut urna venenatis facilisis. Integer ullamcorper arcu in neque luctus ultrices. Vestibulum vitae erat eget massa semper interdum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi suscipit magna est, ullamcorper ornare augue bibendum nec. Mauris egestas, leo at gravida sollicitudin, nunc turpis euismod sapien, sit amet viverra augue orci sed sem. Etiam finibus efficitur porttitor.
+Bonus questions are another defining feature of quiz bowl. When a team answers a
+tossup, they are asked three short questions (all related to the same subject),
+with 5 seconds to collaborate on each one. Bonuses generally consist of an easy
+part, a medium part, and a hard part. This is designed to reward teams for the
+depth of their knowledge.
 
-Maecenas vehicula, purus blandit egestas rutrum, enim nisl suscipit odio, eu commodo arcu purus a nisl. Nam at sapien vel ante congue elementum eu a orci. Duis id ex sit amet ipsum sagittis mattis. Integer justo augue, aliquet quis dictum in, maximus non sem. Sed semper sem sed justo volutpat dapibus. Fusce nec est non purus consequat finibus. Maecenas congue est risus, iaculis facilisis odio sodales ut. Duis libero sapien, fringilla ac tristique id, scelerisque sed erat. Quisque finibus, lacus at fermentum pharetra, diam arcu condimentum purus, ac condimentum eros elit blandit diam. Mauris tortor lorem, accumsan sit amet quam sed, commodo fringilla ligula. Morbi rutrum tellus ut neque dapibus, eget tincidunt tortor venenatis. Aliquam erat volutpat. Pellentesque facilisis magna sit amet tincidunt dictum. Proin sed ornare arcu. Duis urna tellus, bibendum eu tincidunt vitae, scelerisque sit amet tortor. Suspendisse dignissim risus at lobortis scelerisque. 
+## Match format
+
+In Knowledge Bowl, three teams play each other at once. In quiz bowl, each match
+is a face-off between two teams.
+
+## Scoring
+
+In Knowledge Bowl, everything is 1 point. If a question is answered correctly
+after the first word, it's worth 1 point. If someone gets it right after all
+other teams buzz and miss it, it's still 1 point. In quiz bowl, if a player
+answers a toss-up before the power-mark (a pre-designated point in the
+question), their team earns an 15 points instead of the usual 10. This mechanic
+rewards players for their depth of knowledge.
+
+Correctly answering a tossup earns a team a bonus---three questions worth 10
+points each. This allows a team to earn up to 45 points in a single toosup-bonus
+cycle.
+
+## Statistics
+
+Far more statistics are recorded in quiz bowl than in Knowledge Bowl. Perhaps
+more importantly, quiz bowl records *individual stats for every player*. When a
+player attends a quiz bowl tournament, they can find out exactly how well they
+did compared to every other player at the tournament. Teams (and individual
+players) can see how they improve over time and identify what they need to work
+on.
+
+In addition, all results from quiz bowl tournaments are posted online (usually
+on [the Quizbowl Resource Center](http://www.hsquizbowl.org/db/ tournaments/) or
+[NAQT's website](https://www.naqt.com/stats/results.jsp)).
+
+## Teamwork
+
+Teamwork is different in QB. In Knowledge Bowl, speaking out loud to your
+teammates is considered conferring at any point during the question. This means
+that all communication must be non-verbal. In quiz bowl, tossups are for
+individuals with no conferring, but bonuses which are earned by correctly
+answering tossups are open for a team to discuss and communicate about. Usually
+you will have 5 seconds after a part of a bonus to discuss and decide on an
+answer. This increases team work and reasoning for the team and makes for more
+right answers and less agony when someone who claims to know a question strikes
+out when you easily could have answered it if you were able to discuss it.
