@@ -19,7 +19,7 @@ send out a current player to help you get set up.
 ## Questions
 
 The [packet archives](quizbowlpackets.com) is a virtually unlimited source of
-free, high-quiality practice material for all levels of quiz bowl. [This
+free, high-quality practice material for all levels of quiz bowl. [This
 guide](https://cbreach.wordpress.com/packet-categorization/) provides an
 excellent (albeit slightly dated) overview of various sets' difficulty.
 

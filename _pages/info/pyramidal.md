@@ -9,7 +9,7 @@ Missouri Quizbowl Alliance*
 Questions used in high quality quiz bowl formats contain multiple clues,
 beginning with the more obscure clues and containing several progressively
 easier, yet unambiguous, clues about the same answer, and ending with the most
-well-known clues. By arranging clues this way, more knowledgable teams have a
+well-known clues. By arranging clues this way, more knowledgeable teams have a
 better chance of answering a question on a more obscure clue before an easier
 clue that both teams know is read, while the inclusion of well-known facts at
 the end of the question keep it accessible to a wide variety of teams.
@@ -51,14 +51,14 @@ Compare that question to this better-written **pyramidal** question ("Tossup
 > ANSWER: **Slaughterhouse-Five**
 
 This question uses several clues ordered by decreasing difficulty to reward more
-knowledgable players. A player who has read *Slaughterhouse-Five* might be able
-to answer the question very early in the question due to their deep
-familiarity with the work. An experienced quiz bowl player who hasn't read it
-would have a better chance of knowing that Slaughterhouse-Five includes a
-depiction of the firebombing of Dresden, because it is a common clue in
-questions about the work. Finally, the question ends with a giveaway clue that
-makes it most accessible, so even a player with little literature knowledge
-might have a shot at it if nobody has answered the question by that point.
+knowledgeable players. A player who has read *Slaughterhouse-Five* might be able
+to answer the question very early due to their deep familiarity with the
+work. An experienced quiz bowl player who hasn't read it would have a better
+chance of knowing that Slaughterhouse-Five includes a depiction of the
+firebombing of Dresden, because it is a common clue in questions about the
+work. Finally, the question ends with a giveaway clue that makes it most
+accessible, so even a player with little literature knowledge might have a shot
+if nobody has answered the question by that point.
 
 Note that the giveaway clue in Tossup 2 contains the entirety of Tossup 1;
 therefore, pyramidal questions are NOT more difficult than one-liners, because
@@ -116,14 +116,14 @@ to understand what pyramidal questions are NOT:
   increasingly obscure "giveaways" to avoid asking the exact same question ad
   nauseum. As a result, one can argue that pyramidal questions are, on average,
   actually easier than shorter tossups.
-* **A long question is not necessarily a pyramidal question.** A tossup on Abraham
-  Lincoln that begins "This sixteenth president of the United States..." and
-  goes on to devote three or four sentences to clues about his early political
-  career is not a pyramidal question because its clues are not arranged in order
-  of decreasing obscurity. Likewise, a question that resembles a dissertation on
-  the role of rivers in the development of civilizations and ends by asking for
-  the longest river in South America is not pyramidal because the body of the
-  question does not unambiguously refer to the Amazon.
+* **A long question is not necessarily a pyramidal question.** A tossup on
+  Abraham Lincoln that begins "This sixteenth president of the United States..."
+  and goes on to devote three or four sentences to clues about his early
+  political career is not a pyramidal question because its clues are not
+  arranged in order of decreasing obscurity. Likewise, a question that resembles
+  a dissertation on the role of rivers in the development of civilizations and
+  ends by asking for the longest river in South America is not pyramidal because
+  the body of the question does not unambiguously refer to the Amazon.
 * **Well-written pyramidal questions are not long for the sake of being long.**
   Well-written pyramidal questions pack in as many meaningful, uniquely
   identifying, and interesting clues as possible without sacrificing grammar and

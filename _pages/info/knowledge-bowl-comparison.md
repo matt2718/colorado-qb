@@ -51,6 +51,7 @@ In addition, all results from quiz bowl tournaments are posted online (usually
 on [the Quizbowl Resource Center](http://www.hsquizbowl.org/db/ tournaments/) or
 [NAQT's website](https://www.naqt.com/stats/results.jsp)).
 
+{% comment %}
 ## Teamwork
 
 Teamwork is different in QB. In Knowledge Bowl, speaking out loud to your
@@ -62,3 +63,4 @@ you will have 5 seconds after a part of a bonus to discuss and decide on an
 answer. This increases team work and reasoning for the team and makes for more
 right answers and less agony when someone who claims to know a question strikes
 out when you easily could have answered it if you were able to discuss it.
+{% endcomment %}

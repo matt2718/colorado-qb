@@ -79,6 +79,6 @@ for Colorado, contact us.
 ### MSNCT
 
 NAQT hosts the [Middle School National Championship Tournament](https://
-www.naqt.com/msnct/) (MSNCT), the middle school equlivalent of HSNCT. Teams can
+www.naqt.com/msnct/) (MSNCT), the middle school equivalent of HSNCT. Teams can
 qualify by placing in the top 15% of any middle school tournament that uses NAQT
 questions.

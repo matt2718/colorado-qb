@@ -28,6 +28,5 @@ permalink: /info/resources/
     national tournaments
 * [ACF](https://acf-quizbowl.com/) - Organizes collegiate packet-submission
     tournaments
-* [PACE](http://www.pace-nsc.org/) - Hosts NSC and promotes good quiz bowl
-    practices
-* [HSAPQ](https://www.hsapq.com/) - Major question provider, hosts NASAT
+* [PACE](http://www.pace-nsc.org/) - Organizes NSC and promotes quiz bowl
+* [HSAPQ](https://www.hsapq.com/) - Major question provider, organizes NASAT
