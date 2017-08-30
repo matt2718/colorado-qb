@@ -59,12 +59,19 @@ set up, reliable, and relatively inexpensive.
 If your team has difficulty affording a buzzer system, check out [Matt's
 Buzzers](http://mattsbuzzers.com/Home.php).
 
-## Finding Tournaments
+## Tournaments
 
 COQB keeps an [list](/tournaments/upcoming) of all upcoming
-tournaments in Colorado. Announcements can also be found on the HSQB
+tournaments in Colorado. Announcements can also be found on the
 [forums](http://hsquizbowl.org/forums/index.php) and [tournament
 database](http://hsquizbowl.org/db/).
+
+If you want to do well in your first tournament, you'll need to **practice**.
+Specifically, you'll need to practice on [quiz bowl questions](
+quizbowlpackets.com). The questions used in quiz bowl are [different](
+/info/pyramidal) than the ones found in other formats like Knowledge Bowl or
+National Science Bowl (though many teams report that preparing for quiz bowl has
+helped them in other competitions).
 
 Greater Pennsylvania Quiz Bowl has a useful [guide](https://gpqb.wordpress.com/
 2015/06/28/going-to-quizbowl-tournaments-how-it-works/) for teams attending

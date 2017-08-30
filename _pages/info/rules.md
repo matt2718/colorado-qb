@@ -11,10 +11,10 @@ acf-quizbowl.com/official-gameplay-rules/) and [NAQT rules](https://www.naqt.com
 
 ## Structure
 
-Quiz bowl is played between two teams of four players each (a team may have more
-players, but only four can play at once---see "Substitutions"). Players are
-given lockout **buzzers**, which allow the moderator to identify the first
-player to buzz.
+Quiz bowl is played between two teams of **one to four players** each (a team
+may have more players, but only four can play at once---see
+"Substitutions"). Players are given lockout **buzzers**, which allow the
+moderator to identify the first player to buzz.
 
 There are two main types of questions: **tossups** and **bonuses**. Tossups are
 read to both teams, and players answer by buzzing in. A bonus question consists
@@ -91,9 +91,10 @@ sudden-death tossups.
 
 ## Substitutions
 
-Although a team may have more than four players on its roster, **only four may
-play at the same time** (this applies to tournament play; it is
-counterproductive to enforce this rule at practices). Players can generally be
-substituted **between games, at halftime, and before a tiebreaker**. At many
-tournaments, teams are allowed a single **timeout** per game, during which
-substitutions can be made.
+Although a team may have more than four players on its roster, **no
+more than four may play at the same time** (this applies to tournament
+play; it is counterproductive to enforce this rule at
+practices). Players can generally be substituted **between games, at
+halftime, and before a tiebreaker**. At many tournaments, teams are
+allowed a single **timeout** per game, during which substitutions can
+be made.

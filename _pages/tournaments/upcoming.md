@@ -15,7 +15,7 @@ hosting but don't know where to start, contact us anyway. We're happy to help!
 
 | Tournament Name   | Date       | Location         |
 | ----------------- | ---------- | ---------------- |
-| ACF Fall          | 2017-11-04 | CU Boulder       |
+| [ACF Fall](http://www.hsquizbowl.org/forums/viewtopic.php?f=8&t=20295) | 2017-11-04 | CU Boulder |
 
 ## High School Tournaments
 
