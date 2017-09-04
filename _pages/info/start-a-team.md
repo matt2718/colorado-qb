@@ -27,6 +27,12 @@ difficulty.
 [NAQT](https://www.naqt.com/practice-questions.jsp) also sells their old
 questions as practice material.
 
+New teams should start off practicing on novice-level packets before moving on
+to harder ones. For high school teams, we recommend the **SCOP Novice**
+sets. For college teams, we recommend **Collegiate Novice**, **ACF Fall**,
+**Delta Burke**, and **EFT**. All of these sets are available for free on the
+archives.
+
 ## Coaches/Advisors
 
 High school and middle school teams generally need a teacher or parent to handle
