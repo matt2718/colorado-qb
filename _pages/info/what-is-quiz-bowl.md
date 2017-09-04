@@ -13,6 +13,10 @@ Though the term "quiz bowl" sometimes refers to buzzer-based academic
 competitions in general, it usually denotes a specific [tossup-bonus format](
 /info/rules) with [pyramidal questions](/info/pyramidal).
 
+Colorado students may be familiar with Knowledge Bowl. While both quiz bowl and
+Knowledge Bowl are buzzer-based academic competitions, they are [very
+different](/info/knowledge-bowl-comparison).
+
 ## Subjects
 
 The questions cover a wide variety of academic subjects, encouraging teams with

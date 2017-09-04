@@ -35,7 +35,7 @@ question), their team earns an 15 points instead of the usual 10. This mechanic
 rewards players for their depth of knowledge.
 
 Correctly answering a tossup earns a team a bonus---three questions worth 10
-points each. This allows a team to earn up to 45 points in a single toosup-bonus
+points each. This allows a team to earn up to 45 points in a single tossup-bonus
 cycle.
 
 ## Statistics
@@ -48,7 +48,7 @@ players) can see how they improve over time and identify what they need to work
 on.
 
 In addition, all results from quiz bowl tournaments are posted online (usually
-on [the Quizbowl Resource Center](http://www.hsquizbowl.org/db/ tournaments/) or
+on [the Quizbowl Resource Center](http://www.hsquizbowl.org/db/tournaments/) or
 [NAQT's website](https://www.naqt.com/stats/results.jsp)).
 
 {% comment %}

@@ -12,6 +12,11 @@ Starting a team is easy! Just get some interested players together, find some
 [packets](http://www.quizbowlpackets.com/) to practice on, and find out when the
 next [tournament](/tournaments/upcoming) is.
 
+If your school already has a Knowledge Bowl team, it's even easier to get
+started with quiz bowl---just read some quiz bowl questions at practice! We've
+written a summary of [the differences between the two formats](
+/info/knowledge-bowl-comparison).
+
 If you have any questions, please contact us at
 <info@coloradoqb.org>. We're happy to help, and if possible, we can
 send out a current player to help you get set up.
