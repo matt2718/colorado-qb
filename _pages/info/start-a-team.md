@@ -9,8 +9,8 @@ as this [article](https://gpqb.wordpress.com/how-do-i-start-a-quiz-bowl-team/)
 by Greater Pennsylvania Quiz Bowl*
 
 Starting a team is easy! Just get some interested players together, find some
-[packets](quizbowlpackets.com) to practice on, and find out when the next
-[tournament](/tournaments/upcoming) is.
+[packets](http://www.quizbowlpackets.com/) to practice on, and find out when the
+next [tournament](/tournaments/upcoming) is.
 
 If you have any questions, please contact us at
 <info@coloradoqb.org>. We're happy to help, and if possible, we can
@@ -18,13 +18,14 @@ send out a current player to help you get set up.
 
 ## Questions
 
-The [packet archives](quizbowlpackets.com) is a virtually unlimited source of
-free, high-quality practice material for all levels of quiz bowl. [This
-guide](https://cbreach.wordpress.com/packet-categorization/) provides an
-excellent (albeit slightly dated) overview of various sets' difficulty.
+The [packet archives](http://www.quizbowlpackets.com/) is a virtually unlimited
+source of free, high-quality practice material for all levels of quiz
+bowl. [This guide](https://cbreach.wordpress.com/packet-categorization/)
+provides an excellent (albeit slightly dated) overview of various sets'
+difficulty.
 
-[NAQT](https://www.naqt.com/practice-questions.jsp) also sells their
-old questions as practice material.
+[NAQT](https://www.naqt.com/practice-questions.jsp) also sells their old
+questions as practice material.
 
 ## Coaches/Advisors
 
@@ -68,10 +69,10 @@ database](http://hsquizbowl.org/db/).
 
 If you want to do well in your first tournament, you'll need to **practice**.
 Specifically, you'll need to practice on [quiz bowl questions](
-quizbowlpackets.com). The questions used in quiz bowl are [different](
-/info/pyramidal) than the ones found in other formats like Knowledge Bowl or
-National Science Bowl (though many teams report that preparing for quiz bowl has
-helped them in other competitions).
+http://www.quizbowlpackets.com/). The questions used in quiz bowl are
+[different](/info/pyramidal) than the ones found in other formats like Knowledge
+Bowl or National Science Bowl (though many teams report that preparing for quiz
+bowl has helped them in other competitions).
 
 Greater Pennsylvania Quiz Bowl has a useful [guide](https://gpqb.wordpress.com/
 2015/06/28/going-to-quizbowl-tournaments-how-it-works/) for teams attending
