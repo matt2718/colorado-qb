@@ -44,6 +44,15 @@ When writing for this site, try to adhere to the following conventions:
   "Quizbowl" should only be when quoting (e.g. "as Bob once wrote, 'Quizbowl is
   awesome!'") or in proper names (e.g. "Missouri Quizbowl Alliance").
 
+* Unless otherwise specified, "quiz bowl" refers to pyramidal quiz bowl, **not**
+  Knowledge Bowl or Science Bowl. History Bowl, however, **is** considered quiz
+  bowl because most of the game is pyramidal.
+
+* Quiz bowl is a common noun; don't capitalize it. It refers to a type of game
+  and is not tied to any single organization. Specific formats like Science
+  Bowl, History Bowl, and Knowledge Bowl (tied to the DOE, NHBB, and Academic
+  Hallmarks respectively) should be capitalized.
+
 * Never write in first person singular. You are writing on behalf of Colorado
   Quiz Bowl; if you need to speak in the first person, use "we".
 
