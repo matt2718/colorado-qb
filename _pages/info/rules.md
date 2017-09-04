@@ -5,16 +5,16 @@ permalink: /info/rules/
 
 This page contains a brief summary of basic quiz bowl gameplay. However, many
 variations on these rules exist, and you should make sure you know which one
-a given tournament is using. Common rule sets include the [ACF rules](https://
-acf-quizbowl.com/official-gameplay-rules/) and [NAQT rules](https://www.naqt.com
-/rules.html)
+a given tournament is using. Common rulesets include the [ACF](https://
+acf-quizbowl.com/official-gameplay-rules/), [NAQT](https://www.naqt.com
+/rules.html), and [PACE](http://www.pace-nsc.org/official-pace-ruleset/) rules.
 
 ## Structure
 
-Quiz bowl is played between two teams of **one to four players** each (a team
-may have more players, but only four can play at once---see
-"Substitutions"). Players are given lockout **buzzers**, which allow the
-moderator to identify the first player to buzz.
+A quiz bowl match is played between **two teams**, usually comprised of **four
+players each** (shorthanded teams are generally allowed; see "Substitutions" for
+more detail). Players are given lockout **buzzers**, which allow the moderator
+to identify the first player to buzz.
 
 There are two main types of questions: **tossups** and **bonuses**. Tossups are
 read to both teams, and players answer by buzzing in. A bonus question consists
@@ -45,14 +45,15 @@ need not wait to be recognized before beginning their answer.
 
 If the player is **correct**, they receive **10 points** and their team is given
 a **bonus question**. At many tournaments, if a player buzzes before a marked
-point in the question, they are awarded **15 points** instead of the usual 10.
-This is called a "power".
+point in the question, they are awarded **15 points** (or possibly 20, depending
+on the rules) instead of the usual 10. This is called a "power".
 
 If the player is **incorrect** (or fails to give an answer in the allotted
 time), their teammates **may not buzz** for the remainder of the question. In
-addition, **5 points are deducted from their team's score** (this is known as a
-"neg"). However, this penalty does not apply if the moderator has finished
-reading the question or if the other team has already buzzed.
+addition, **5 points may be deducted from their team's score** (depending on the
+specific rules used). This is known as a "neg". However, this penalty does not
+apply if the moderator has finished reading the question or if the other team
+has already buzzed. Some tournaments, most notably the PACE NSC, have no negs.
 
 In some cases, a player's answer is partially correct, but not specific enough
 (for example, a player may answer "Roosevelt" without specifying Theodore or
@@ -73,7 +74,7 @@ moderator will prompt the team for an answer after 4 seconds if none has been
 given. Any player can answer; the moderator must take the first answer that is
 clearly directed at them.
 
-Some tournaments, most notably the PACE NSC, have **"bounce-back" bonuses**. This
+Some tournaments, most notably the NSC, have **"bounce-back" bonuses**. This
 means that if one team gets a bonus part wrong, the other team is given an
 opportunity to answer it.
 
@@ -91,10 +92,10 @@ sudden-death tossups.
 
 ## Substitutions
 
-Although a team may have more than four players on its roster, **no
-more than four may play at the same time** (this applies to tournament
-play; it is counterproductive to enforce this rule at
-practices). Players can generally be substituted **between games, at
-halftime, and before a tiebreaker**. At many tournaments, teams are
-allowed a single **timeout** per game, during which substitutions can
-be made.
+Although a team may have more than four players on its roster, **no more than
+four may play at the same time** (this applies to tournament play; it is
+counterproductive to enforce this rule at practices).
+
+Players can generally be substituted **between games, at halftime, and
+before a tiebreaker**. At many tournaments, teams are allowed a single
+**timeout** per game, during which substitutions can be made.
