@@ -67,12 +67,11 @@ certification).
 
 ### NASAT
 
-The [National All-Star Academic Tournament](http://hsquizbowl.org/forums/
-viewtopic.php?f=2&t=19239) (NASAT) is hosted by HSAPQ. Unlike HSNCT and NSC,
-teams are composed of the top players from each state. It features very
-difficult questions (comparable to college regionals) and is considered the
-hardest tournament in high school quiz bowl. If you are interested in playing
-for Colorado, contact us.
+The National All-Star Academic Tournament (NASAT) is hosted by
+[HSAPQ](https://www.hsapq.com/). Unlike HSNCT and NSC, teams are composed of the
+top players from each state. It features very difficult questions (comparable to
+college regionals) and is considered the hardest tournament in high school quiz
+bowl. If you are interested in playing for Colorado, contact us.
 
 ## Middle School
 

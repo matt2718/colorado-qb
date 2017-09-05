@@ -30,3 +30,4 @@ permalink: /info/resources/
     tournaments
 * [PACE](http://www.pace-nsc.org/) - Organizes NSC and promotes quiz bowl
 * [HSAPQ](https://www.hsapq.com/) - Major question provider, organizes NASAT
+* [NHBB](http://www.historybowl.com/]) - Organizes History Bowl
