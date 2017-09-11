@@ -19,13 +19,9 @@ hosting but don't know where to start, contact us anyway. We're happy to help!
 
 ## High School Tournaments
 
-There are currently no high school tournaments scheduled. Check back soon!
-{% comment %}
 | Tournament Name   | Date       | Location         |
 | ----------------- | ---------- | ---------------- |
-| Novice tournament | 2017-10-07 | CU Boulder       |
-| Potato III        | 2017-12-25 | Some high school |
-{% endcomment %}
+| [Colorado Fall Novice](http://www.hsquizbowl.org/forums/viewtopic.php?f=1&t=20412) | 2017-10-21 | CU Boulder |
 
 ## Middle School Tournaments
 
