@@ -38,6 +38,12 @@ Correctly answering a tossup earns a team a bonus---three questions worth 10
 points each. This allows a team to earn up to 45 points in a single tossup-bonus
 cycle.
 
+## Levels of Play
+
+While Knowledge Bowl ends after high school, quiz bowl is played by colleges and
+universities across the US and Canada. Several Colorado schools, such as CU
+Boulder and UCCS, have quiz bowl teams and regularly attend tournaments.
+
 ## Statistics
 
 Far more statistics are recorded in quiz bowl than in Knowledge Bowl. Perhaps
