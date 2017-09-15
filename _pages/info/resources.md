@@ -10,7 +10,8 @@ permalink: /info/resources/
     http://hsquizbowl.org/db/tournaments/)
 * [Quizbowl Packet Archive](http://quizbowlpackets.com/) - Excellent source of
     practice questions for all levels
-* [Quinterest](http://www.quinterest.org/) - Search for specific questions
+* [QuizDB](https://www.quizdb.org/) and [Quinterest](http://www.quinterest.org/
+    ) - Question search engines
 * [Protobowl](http://protobowl.com/) - Play tossups against other people
 * [QBWiki](https://www.qbwiki.com/wiki/Main_Page) - A wiki devoted to quiz bowl
 
