@@ -21,7 +21,7 @@ hosting but don't know where to start, contact us anyway. We're happy to help!
 
 | Tournament Name   | Date       | Location         |
 | ----------------- | ---------- | ---------------- |
-| [Colorado Fall Novice](http://www.hsquizbowl.org/forums/viewtopic.php?f=1&t=20412) | 2017-10-21 | CU Boulder |
+| [Colorado Fall Novice](http://www.hsquizbowl.org/forums/viewtopic.php?f=1&t=20412) (CANCELLED)| 2017-10-21 | CU Boulder |
 
 ## Middle School Tournaments
 
