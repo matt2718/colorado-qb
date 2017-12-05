@@ -15,17 +15,22 @@ hosting but don't know where to start, contact us anyway. We're happy to help!
 
 | Tournament Name   | Date       | Location         |
 | ----------------- | ---------- | ---------------- |
-| [ACF Fall](http://www.hsquizbowl.org/forums/viewtopic.php?f=8&t=20295) | 2017-11-04 | CU Boulder |
+| [2018 NAQT SCT](http://www.hsquizbowl.org/forums/viewtopic.php?f=8&t=20728) | 2018-02-03 | CU Boulder |
 
 ## High School Tournaments
 
+There are currently no high school tournaments scheduled. Check back soon!
+
+{% comment %}
 | Tournament Name   | Date       | Location         |
 | ----------------- | ---------- | ---------------- |
-| [Colorado Fall Novice](http://www.hsquizbowl.org/forums/viewtopic.php?f=1&t=20412) (CANCELLED)| 2017-10-21 | CU Boulder |
+| Tournament name | 2017-10-21 | CU Boulder |
+{% endcomment %}
 
 ## Middle School Tournaments
 
 There are currently no middle school tournaments scheduled. Check back soon!
+
 {% comment %}
 | Tournament Name   | Date       | Location         |
 | ----------------- | ---------- | ---------------- |
