@@ -19,13 +19,13 @@ hosting but don't know where to start, contact us anyway. We're happy to help!
 
 ## High School Tournaments
 
-There are currently no high school tournaments scheduled. Check back soon!
-
 {% comment %}
+There are currently no high school tournaments scheduled. Check back soon!
+{% endcomment %}
+
 | Tournament Name   | Date       | Location         |
 | ----------------- | ---------- | ---------------- |
-| Tournament name | 2017-10-21 | CU Boulder |
-{% endcomment %}
+| [2018 State Championship](http://www.hsquizbowl.org/forums/viewtopic.php?f=1&t=20924) | 2018-02-24 | CU Boulder |
 
 ## Middle School Tournaments
 
