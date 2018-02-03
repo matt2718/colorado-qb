@@ -712,7 +712,7 @@ can see how they are doing between rounds.
 **Make sure the game rooms are unlocked.** If they aren't, this is why getting a
 phone number of someone to unlock it and getting there early is key!
 
-**Set up your tournament HQ.*8 Make sure it is clearly marked so that staffers
+**Set up your tournament HQ.** Make sure it is clearly marked so that staffers
 will find it and teams will stay at a respectful distance from it. Ideally, it
 will be a private room separate from the main auditorium where the teams will be
 for the pre-tournament meeting. Keep all of the questions and all the extra
@@ -744,10 +744,10 @@ This is when your staffers should start coming in. You should be keeping track
 of them and calling up any who haven't showed in time. As they come in, assign
 them to do the following jobs:
 
-1\. **Money Person.** This person should handle the $$ as teams come in. This is
+1\. **Money Person.** This person should handle the money as teams come in. This is
 also why it helps to draw up the costs each team needs to pay before the
 tournament starts so conflicts can be settled over email rather than clogging up
-the line on the morning. Make sure this person handling the $$ is trustworthy!
+the line on the morning. Make sure this person handling the money is trustworthy!
 
 2\. **Registration Person.** This person should make sure to keep track of which
 teams have checked in. I like highlighting the team's name on the google doc
