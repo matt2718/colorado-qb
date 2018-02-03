@@ -25,7 +25,7 @@ There are currently no high school tournaments scheduled. Check back soon!
 
 | Tournament Name   | Date       | Location         |
 | ----------------- | ---------- | ---------------- |
-| [2018 State Championship](http://www.hsquizbowl.org/forums/viewtopic.php?f=1&t=20924) | 2018-02-24 | CU Boulder |
+| [2018 State Championship](http://www.hsquizbowl.org/forums/viewtopic.php?f=1&t=20924) | 2018-03-03 | CU Boulder |
 
 ## Middle School Tournaments
 
