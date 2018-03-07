@@ -18,6 +18,7 @@ permalink: /info/resources/
 ## Quiz Bowl Guides
 
 * ["The Guide I Wish I Had"](/assets/the-guide-i-wish-i-had.pdf)
+* ["So You Want to Study Quizbowl"](http://hsquizbowl.org/forums/viewtopic.php?f=30&t=14099)
 * ["How to Get Good At This Game"](https://www.qbwiki.com/wiki/How_to_Get_Good_
     at_This_Game)
 * ["How to Write Questions"](http://hsquizbowl.org/forums/viewtopic.php?f=30&
