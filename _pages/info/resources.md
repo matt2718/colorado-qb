@@ -27,7 +27,9 @@ permalink: /info/resources/
 ## National Organizations
 
 * [NAQT](https://www.naqt.com/) - Major question provider, organizes several
-    national tournaments
+    national tournaments. Their ["You Gotta Know"
+    lists](https://www.naqt.com/you-gotta-know/) are very helpful when you're
+    first exploring a subject.
 * [ACF](https://acf-quizbowl.com/) - Organizes collegiate packet-submission
     tournaments
 * [PACE](http://www.pace-nsc.org/) - Organizes NSC and promotes quiz bowl
