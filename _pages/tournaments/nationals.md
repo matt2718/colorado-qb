@@ -26,12 +26,12 @@ the preceding ACF Regionals tournament.
 
 ### Chicago Open
 
-Though not a true "collegiate" tournament, the Chicago Open is worth mentioning.
-Held annually at the University of Chicago, the tournament is open to all
-players---college students, former players, and even high schoolers (though the
-last case is rare). It is generally considered the most difficult tournament in
-all of quiz bowl. Any group of people may form a team, and packet submission is
-required.
+Although it is not technically a "collegiate" tournament, this page would be
+incomplete without a discussion of the Chicago Open. Held annually at the
+University of Chicago, the tournament is open to all players---college students,
+working adults, and even high schoolers (though the last case is rare). It is
+generally considered the most difficult tournament in all of quiz bowl. Any
+group of people may form a team, and packet submission is required.
 
 ## High School
 
@@ -41,10 +41,10 @@ Like college quiz bowl, high school quiz bowl has several national tournaments.
 
 The [High School National Championship Tournament](https://www.naqt.com/hsnct/)
 (HSNCT) is hosted by NAQT. HSNCT is the largest tournament in quiz bowl, with a
-field size of roughly 300 teams. The tournament uses timed rounds, and the
-distribution is similar to that of NAQT's regular sets (though the questions are
-harder). Teams can qualify by placing in the top 15% of any tournament that uses
-NAQT questions.
+field size of over 300 teams. The tournament uses timed rounds, and the
+distribution is similar to that of NAQT's regular-season sets (though the
+questions are harder). Teams can qualify by placing in the top 15% of any
+tournament that uses NAQT questions.
 
 In addition to HSNCT, schools that meet [NAQT's definition of a "small school"](
 https://www.naqt.com/hs/small-school.html) can qualify for the [Small School
@@ -67,11 +67,12 @@ certification).
 
 ### NASAT
 
-The National All-Star Academic Tournament (NASAT) is hosted by
-[HSAPQ](https://www.hsapq.com/). Unlike HSNCT and NSC, teams are composed of the
-top players from each state. It features very difficult questions (comparable to
-college regionals) and is considered the hardest tournament in high school quiz
-bowl. If you are interested in playing for Colorado, contact us.
+The National All-Star Academic Tournament (NASAT) was originally created by
+[HSAPQ](https://www.hsapq.com/), but is now independently organized. Unlike
+HSNCT and NSC, teams are composed of the top 4 players from each state. It
+features very difficult questions (comparable to college regionals) and is
+considered the hardest tournament in high school quiz bowl. If you are
+interested in playing for Colorado, contact us!
 
 ## Middle School
 

@@ -7,13 +7,18 @@ permalink: /info/resources/
 
 * [The Quizbowl Resource Center](http://hsquizbowl.org/), specifically the
     [forums](http://www.hsquizbowl.org/forums/) and [tournament database](
-    http://hsquizbowl.org/db/tournaments/)
+    http://hsquizbowl.org/db/tournaments/) (though the domain name is
+    hsquizbowl.org, this site contains plenty of resources for college players).
 * [Quizbowl Packet Archive](http://quizbowlpackets.com/) - Excellent source of
     practice questions for all levels
 * [QuizDB](https://www.quizdb.org/) and [Quinterest](http://www.quinterest.org/
     ) - Question search engines
 * [Protobowl](http://protobowl.com/) - Play tossups against other people
 * [QBWiki](https://www.qbwiki.com/wiki/Main_Page) - A wiki devoted to quiz bowl
+* [Quizbowl Tournament Database Search](http://hdwhite.org/qb/stats/) - Search
+    engine for tournament results
+* [QBNotify](https://qbnotify.msmitchell.org) - Email notification service for
+    tournament announcements
 
 ## Quiz Bowl Guides
 
@@ -32,6 +37,6 @@ permalink: /info/resources/
     first exploring a subject.
 * [ACF](https://acf-quizbowl.com/) - Organizes collegiate packet-submission
     tournaments
-* [PACE](http://www.pace-nsc.org/) - Organizes NSC and promotes quiz bowl
-* [HSAPQ](https://www.hsapq.com/) - Major question provider, organizes NASAT
-* [NHBB](http://www.historybowl.com/) - Organizes History Bowl
+* [PACE](http://www.pace-nsc.org/) - Organizes NSC and promotes good quiz bowl
+     practices
+* [HSAPQ](https://www.hsapq.com/) - Major question provider, now defunct
