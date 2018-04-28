@@ -4,7 +4,7 @@ permalink: /info/start-a-team/
 ---
 
 *NOTE: In addition to this page, we recommend reading NAQT's
-[guides](https://www.naqt.com/resources/development.html) for new teams, as well
+[guides](https://www.naqt.com/how-to/) for new teams, as well
 as this [article](https://gpqb.wordpress.com/how-do-i-start-a-quiz-bowl-team/)
 by Greater Pennsylvania Quiz Bowl*
 
@@ -29,7 +29,7 @@ bowl. [This guide](https://cbreach.wordpress.com/packet-categorization/)
 provides an excellent (albeit slightly dated) overview of various sets'
 difficulty.
 
-[NAQT](https://www.naqt.com/practice-questions.jsp) also sells their old
+[NAQT](https://www.naqt.com/order/) also sells their old
 questions as practice material.
 
 New teams should start off practicing on novice-level packets before moving on

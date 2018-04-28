@@ -55,7 +55,7 @@ on.
 
 In addition, all results from quiz bowl tournaments are posted online (usually
 on [the Quizbowl Resource Center](http://www.hsquizbowl.org/db/tournaments/) or
-[NAQT's website](https://www.naqt.com/stats/results.jsp)).
+[NAQT's website](https://www.naqt.com/stats/tournament/index.jsp)).
 
 {% comment %}
 ## Teamwork

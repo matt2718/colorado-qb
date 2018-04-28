@@ -7,7 +7,7 @@ This page contains a brief summary of basic quiz bowl gameplay. However, many
 variations on these rules exist, and you should make sure you know which one
 a given tournament is using. Common rulesets include the [ACF](https://
 acf-quizbowl.com/official-gameplay-rules/), [NAQT](https://www.naqt.com
-/rules.html), and [PACE](http://www.pace-nsc.org/official-pace-ruleset/) rules.
+/rules/), and [PACE](http://www.pace-nsc.org/official-pace-ruleset/) rules.
 
 ## Structure
 
