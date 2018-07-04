@@ -9,3 +9,5 @@ are open to everyone (including high schoolers).
 
 UPDATE: Due to issues with room reservations, practices will be held in room 247
 (or possibly 251).
+
+UPDATE: There is **no** practice on July 4th.
