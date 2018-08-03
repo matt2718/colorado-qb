@@ -3,7 +3,7 @@ title: "Upcoming Colorado Tournaments"
 permalink: /tournaments/upcoming/
 ---
 
-If you'd like to stay up to date on tournament, you can [sign
+If you'd like to stay up to date on tournaments, you can [sign
 up](https://qbnotify.msmitchell.org) to recieve email notifications whenever a
 tournament is announced in your area.
 
