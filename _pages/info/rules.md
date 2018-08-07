@@ -21,10 +21,10 @@ read to both teams, and players answer by buzzing in. A bonus question consists
 of three parts and is read to a team after one of their players successfully
 answers a tossup.
 
-Each game consists of **two halves**, which may be timed or untimed depending
-on the tournament. In a timed game (most common with NAQT rules), each half is
-usually 9 minutes long (or 10 in college tournaments). Each half of an untimed
-game consists of 10 tossups, as well as any bonuses read.
+Each game consists of **two halves**, which may be timed or untimed depending on
+the tournament. In a timed game (most common with NAQT rules), each half is
+usually 9 or 10 minutes long, depending on the tournament. Each half of an
+untimed game consists of 10 tossups, as well as any bonuses read.
 
 ## Tossups
 
@@ -46,14 +46,15 @@ need not wait to be recognized before beginning their answer.
 If the player is **correct**, they receive **10 points** and their team is given
 a **bonus question**. At many tournaments, if a player buzzes before a marked
 point in the question, they are awarded **15 points** (or possibly 20, depending
-on the rules) instead of the usual 10. This is called a "power".
+on the rules) instead of the usual 10. This is called a "power." Some packets,
+such as those produced by ACF, do not have powers.
 
 If the player is **incorrect** (or fails to give an answer in the allotted
 time), their teammates **may not buzz** for the remainder of the question. In
-addition, **5 points may be deducted from their team's score** (depending on the
-specific rules used). This is known as a "neg". However, this penalty does not
-apply if the moderator has finished reading the question or if the other team
-has already buzzed. Some tournaments, most notably the PACE NSC, have no negs.
+addition, **5 points are deducted from their team's score**. This is known as a
+"neg." However, this penalty does not apply if the moderator has finished
+reading the question or if the other team has already buzzed. Some tournaments,
+most notably the PACE NSC, have no negs.
 
 In some cases, a player's answer is partially correct, but not specific enough
 (for example, a player may answer "Roosevelt" without specifying Theodore or
@@ -84,11 +85,11 @@ tossup 2 would still be read bonus 1.
 
 ## Tiebreakers
 
-The method used to break a tie depends on the tournament. Many use a
-**"sudden-death" tiebreaker**, where tossups are read sequentially and the first
-change in score determines a winner. In tournaments played on NAQT rules, **3
-tossups** are read without bonuses. If a tie still remains, it is broken by
-sudden-death tossups.
+The method used to break a tie depends on the tournament. Many use
+**"sudden-death" tiebreakers**, where tossups are read sequentially and the
+first change in the score determines the winner. In tournaments played on NAQT
+rules, **3 tossups** are read without bonuses. If a tie still remains, it is
+broken by sudden-death tossups.
 
 ## Substitutions
 

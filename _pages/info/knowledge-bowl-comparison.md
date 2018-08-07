@@ -3,6 +3,11 @@ title: "How is Quiz Bowl Different from Knowledge Bowl?"
 permalink: /info/knowledge-bowl-comparison/
 ---
 
+Some players, particularly those who currently attend or have graduated from
+Colorado high schools, may be more familiar with Knowledge Bowl. While quiz bowl
+is in the same general category as Knowledge Bowl (both are buzzer-based
+academic competitions), the formats are very different.
+
 ## Questions
 
 Knowledge Bowl features shorter questions, usually two or three sentences. In

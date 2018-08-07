@@ -11,27 +11,32 @@ national championships each year.
 ### ICT and CCCT
 
 The [Intercollegiate Championship Tournament](https://www.naqt.com/ict/) (ICT)
-is written and hosted by NAQT. Teams qualify based on their performance at one
-of NAQT's Sectional Championship Tournaments (SCTs).
+is written and organized by NAQT, and is usually hosted in Chicago. Like other
+NAQT-produced tournaments, ICT tends to contain slightly more geography and pop
+culture and slightly less art than the typical collegiate question set. Teams
+qualify based on their performance at one of NAQT's Sectional Championship
+Tournaments (SCTs).
 
 Community colleges can also qualify for NAQT's [Community College Championship
 Tournament](https://www.naqt.com/ccct/) (CCCT).
 
 ### ACF Nationals
 
-[ACF Nationals](https://acf-quizbowl.com/aboutus/) is hosted annually by ACF.
-Unlike ICT, ACF Nationals is untimed, contains no pop culture or sports, and
-requires teams to submit a packet. Teams qualify based on their performance at
-the preceding ACF Regionals tournament.
+[ACF Nationals](https://acf-quizbowl.com/aboutus/) is organized annually by ACF
+and hosted at various colleges around the country. Unlike ICT, ACF Nationals is
+untimed, contains no pop culture or sports, and requires teams to submit a
+packet to the tournament editors. The tossups also tend to be slightly longer
+(though not necessarily harder) than those of ICT. Teams qualify based on their
+performance at the preceding ACF Regionals tournament.
 
 ### Chicago Open
 
 Although it is not technically a "collegiate" tournament, this page would be
-incomplete without a discussion of the Chicago Open. Held annually at the
-University of Chicago, the tournament is open to all players---college students,
-working adults, and even high schoolers (though the last case is rare). It is
-generally considered the most difficult tournament in all of quiz bowl. Any
-group of people may form a team, and packet submission is required.
+incomplete without a discussion of the Chicago Open. Held annually at either
+Northwestern or UChicago, the tournament is open to all players---college
+students, working adults, and even high schoolers (though the last case is
+rare). It is generally considered the most difficult tournament in all of quiz
+bowl. Any group of people may form a team, and packet submission is required.
 
 ## High School
 
@@ -56,14 +61,20 @@ will also qualify for SSNCT.
 ### NSC
 
 The [National Scholastic Championship](http://www.pace-nsc.org/pace-nsc-2018-
-june-2-3-washington-dc/) (NSC) is hosted by PACE. It is of comparable difficult
-to HSNCT, but with several notable differences. NSC packets have slightly more
-fine arts than HSNCT, and they contains no questions on pop culture or sports.
-In addition, NSC features untimed rounds, no negs, 20-point powers, and
-"bounceback" bonuses (where if a team gets a bounus part wrong, their opponent
-has a chance to answer). Teams qualify for NSC by placing in the top 10-25% at
-a PACE-certified tournament (the exact cutoff depends on the level of
-certification).
+june-2-3-washington-dc/) (NSC) is hosted by PACE, and is to HSNCT what ACF
+Nationals is to ICT. Although the difficulty is comparable to that of HSCNT, the
+format and subject distribution have some slight differences. NSC packets have
+longer tossups, more questions fine arts, mythology, and philosophy content than
+HSNCT, and no questions on pop culture or sports. In addition, NSC features
+untimed rounds, no negs, 20-point powers, and "bounceback" bonuses (if a team
+gets a bounus part wrong, their opponent has a chance to answer).
+
+Rather than producing regular-season question sets, PACE certifies high school
+tournament that meet certain standards of question quality, fair competition,
+and results reporting (certification does not cost any money, and we encourage
+all hosts to ensure that their tournaments are certified). Teams can qualify for
+NSC by placing in the top 10-25% at a PACE-certified tournament, with the exact
+cutoff depending on the level of certification.
 
 ### NASAT
 

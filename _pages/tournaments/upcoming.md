@@ -9,7 +9,10 @@ tournament is announced in your area.
 
 Want your tournament added to the list? Send an email to
 <hosting@coloradoqb.org> containing the name, date, and location of your
-tournament, a short description, and contact info for prospective teams.
+tournament, a short description, and contact info for prospective teams. We also
+recommend posting tournament announcments on the [forums](
+http://www.hsquizbowl.org/forums/) and [tournament database](
+http://hsquizbowl.org/db/tournaments/).
 
 If you're haven't finished planning your tournament, or if you're curious about
 hosting but don't know where to start, contact us anyway. We're happy to help!
