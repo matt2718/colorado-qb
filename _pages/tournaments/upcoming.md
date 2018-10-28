@@ -19,13 +19,13 @@ hosting but don't know where to start, contact us anyway. We're happy to help!
 
 ## College Tournaments
 
-There are currently no college tournaments scheduled. Check back soon!
-
 {% comment %}
+There are currently no college tournaments scheduled. Check back soon!
+{% endcomment %}
+
 | Tournament Name   | Date       | Location         |
 | ----------------- | ---------- | ---------------- |
-| [2018 NAQT SCT](http://www.hsquizbowl.org/forums/viewtopic.php?f=8&t=20728) | 2018-02-03 | CU Boulder |
-{% endcomment %}
+| [2018 ACF Fall](http://www.hsquizbowl.org/forums/viewtopic.php?f=8&t=21664) | 2018-11-03 | CU Boulder |
 
 ## High School Tournaments
 
