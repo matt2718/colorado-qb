@@ -5,17 +5,18 @@ permalink: /info/resources/
 
 ## Websites
 
-* [The Quizbowl Resource Center](http://hsquizbowl.org/), specifically the
-    [forums](http://www.hsquizbowl.org/forums/) and [tournament database](
-    http://hsquizbowl.org/db/tournaments/) (although the domain name is
+* [The Quizbowl Resource Center](https://hsquizbowl.org/), specifically the
+    [forums](https://www.hsquizbowl.org/forums/) and [tournament database](
+    https://hsquizbowl.org/db/tournaments/) (although the domain name is
     hsquizbowl.org, this site contains plenty of resources for college players).
-* [Quizbowl Packet Archive](http://quizbowlpackets.com/) - Excellent source of
+* [Quizbowl Packet Archive](https://quizbowlpackets.com/) - Excellent source of
     practice questions for all levels
-* [QuizDB](https://www.quizdb.org/) - A question search engine
+* [QuizDB](https://www.quizdb.org/) and [Aseem's DB](http://aseemsdb.me/) -
+    Search engines for past quizbowl questions
 * [Quizbowl Discord](https://discordapp.com/invite/T4nYsCq) - Chat room for
     quizbowl discussion. Plenty of experienced players hang out here, and it's a
     great source of advice
-* [Protobowl](http://protobowl.com/) - Play tossups against other people
+* [Protobowl](https://protobowl.com/) - Play tossups against other people
 * [QBWiki](https://www.qbwiki.com/wiki/Main_Page) - A wiki devoted to quiz bowl
 * [Quizbowl Tournament Database Search](http://hdwhite.org/qb/stats/) - Search
     engine for players, schools, and tournament results
