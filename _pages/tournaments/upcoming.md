@@ -25,17 +25,18 @@ There are currently no college tournaments scheduled. Check back soon!
 
 | Tournament Name   | Date       | Location         |
 | ----------------- | ---------- | ---------------- |
-| [2018 ACF Fall](http://www.hsquizbowl.org/forums/viewtopic.php?f=8&t=21664) | 2018-11-03 | CU Boulder |
+| [2019 ACF Fall](http://www.hsquizbowl.org/forums/viewtopic.php?f=8&t=23119) | 2019-11-02 | CU Boulder |
 
 ## High School Tournaments
 
-There are currently no high school tournaments scheduled. Check back soon!
-
 {% comment %}
+There are currently no high school tournaments scheduled. Check back soon!
+{% endcomment %}
+
 | Tournament Name   | Date       | Location         |
 | ----------------- | ---------- | ---------------- |
-| [2018 State Championship](http://www.hsquizbowl.org/forums/viewtopic.php?f=1&t=20924) | 2018-03-03 | CU Boulder |
-{% endcomment %}
+| 2019 Fall Kickoff (NAQT IS-185A) | 2019-09-28 | CU Boulder |
+
 
 ## Middle School Tournaments
 
