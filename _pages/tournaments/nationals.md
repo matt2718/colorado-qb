@@ -64,8 +64,8 @@ The [National Scholastic Championship](http://www.pace-nsc.org/pace-nsc-2018-
 june-2-3-washington-dc/) (NSC) is hosted by PACE, and is to HSNCT what ACF
 Nationals is to ICT. Although the difficulty is comparable to that of HSCNT, the
 format and subject distribution have some slight differences. NSC packets have
-longer tossups, more questions fine arts, mythology, and philosophy content than
-HSNCT, and no questions on pop culture or sports. In addition, NSC features
+longer tossups, more questions on fine arts, mythology, and philosophy content
+than HSNCT, and no questions on pop culture or sports. In addition, NSC features
 untimed rounds, no negs, 20-point powers, and "bounceback" bonuses (if a team
 gets a bounus part wrong, their opponent has a chance to answer).
 

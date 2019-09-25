@@ -35,7 +35,7 @@ There are currently no high school tournaments scheduled. Check back soon!
 
 | Tournament Name   | Date       | Location         |
 | ----------------- | ---------- | ---------------- |
-| 2019 Fall Kickoff (NAQT IS-185A) | 2019-09-28 | CU Boulder |
+| [2019 Fall Kickoff](https://hsquizbowl.org/forums/viewtopic.php?f=1&t=23205) (NAQT IS-185A) | 2019-09-28 | CU Boulder |
 
 
 ## Middle School Tournaments
