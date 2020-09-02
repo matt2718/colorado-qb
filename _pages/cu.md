@@ -16,8 +16,8 @@ Want to learn more about the game? Check out [the rest of this
 website](/info/what-is-qb/).
 
 Practices during the 2019-2020 school year are on **Wednesday
-evenings, from 6:15 PM - 9 PM, in Hellems 196**. Feel free to stop by!
+evenings, from 6:15 PM - 9 PM, in Hellems 251**. Feel free to stop by!
 If you have any questions about the team, feel free to email club
-president Matt Mitchell (<matthew.s.mitchell@colorado.edu>).
+president Peter Lande (<peter.lande@colorado.edu>).
 
 <sub>Previous website [here](https://sites.google.com/site/cutriviabuffs/).</sub>
