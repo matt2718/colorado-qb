@@ -11,11 +11,11 @@ interest in expanding the game.
 
 ## Officers
 
-**Acting president:** Matt Mitchell (CU Boulder '20)
+**Acting president:** Matt Mitchell (CU Boulder)
 
-**Outreach director:** Jake Boonin (Boulder High '21)
+**Outreach director:** Jake Boonin (Boulder High)
 
-**Webmaster:** Matt Mitchell (CU Boulder '20)
+**Webmaster:** Matt Mitchell (CU Boulder)
 
 ## Contact 
 
