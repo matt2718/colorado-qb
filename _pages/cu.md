@@ -3,6 +3,8 @@ title: "CU Academic Quiz Bowl Team"
 permalink: /cu/
 ---
 
+## NOTE: The CU Boulder team no longer exists. If you're a CU student and you want to start it, please email me (matt at coloradoqb.org) and I'll give you control of this website.
+
 Hi! We're CU Boulder's quiz bowl team! We compete against other
 colleges in a buzzer-based game that tests academic knowledge. We've
 played tournaments everywhere from Kansas to Utah to Idaho to
@@ -14,10 +16,5 @@ for you!
 
 Want to learn more about the game? Check out [the rest of this
 website](/info/what-is-qb/).
-
-Practices during the 2019-2020 school year are on **Wednesday
-evenings, from 6:15 PM - 9 PM, in Hellems 251**. Feel free to stop by!
-If you have any questions about the team, feel free to email club
-president Peter Lande (<peter.lande@colorado.edu>).
 
 <sub>Previous website [here](https://sites.google.com/site/cutriviabuffs/).</sub>
