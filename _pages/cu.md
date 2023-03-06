@@ -3,7 +3,7 @@ title: "CU Academic Quiz Bowl Team"
 permalink: /cu/
 ---
 
-## NOTE: The CU Boulder team no longer exists. If you're a CU student and you want to start it, please email me (matt at coloradoqb.org) and I'll give you control of this website.
+## NOTE: The CU Boulder team no longer exists. If you're a CU student and you want to restart it, please email me (matt at coloradoqb.org) and I'll give you control of this website.
 
 Hi! We're CU Boulder's quiz bowl team! We compete against other
 colleges in a buzzer-based game that tests academic knowledge. We've
