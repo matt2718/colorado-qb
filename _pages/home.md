@@ -1,6 +1,6 @@
 ---
 title: "Colorado Quiz Bowl"
-permalink: /home/
+permalink: /
 ---
 
 ## Should our school run a tournament?
