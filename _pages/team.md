@@ -1,4 +1,4 @@
 ---
 title: "Meet the Team!"
-permalink: /team
+permalink: /team/
 ---
