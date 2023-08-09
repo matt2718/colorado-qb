@@ -1,6 +1,6 @@
 linkbar:
   - title: "Home"
-    url: /home/
+    url: /
   - title: "Information"
     children:
       - title: "What is Quiz Bowl?"
