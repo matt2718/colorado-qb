@@ -3,11 +3,11 @@ linkbar:
     url: /
     children:
       - title: "CU Boulder Trivia Buffs"
-        url: /cu
+        url: /cu/
       - title: "Our Team"
-        url: /team
+        url: /team/
       - title: "Join us"
-        url: /join
+        url: /join/
   - title: "Information"
     children:
       - title: "What is Quiz Bowl?"
@@ -34,3 +34,5 @@ linkbar:
     children:
       - title: "Our Blog"
         url: /blog/allposts/
+      - title: "Contact Us"
+        url: /contact/
