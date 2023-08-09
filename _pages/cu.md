@@ -1,5 +1,5 @@
 ---
-title: "CU Academic Quiz Bowl Team"
+title: "CU Boulder Quiz Bowl Team"
 permalink: /cu/
 ---
 
@@ -16,5 +16,3 @@ for you!
 
 Want to learn more about the game? Check out [the rest of this
 website](/info/what-is-qb/).
-
-<sub>Previous website [here](https://sites.google.com/site/cutriviabuffs/).</sub>
