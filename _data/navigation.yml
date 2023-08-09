@@ -25,7 +25,5 @@ linkbar:
         url: /tournaments/hosting/
   - title: "More"
     children:
-      - title: "About / Contact"
-        url: /more/contact/
       - title: "Our Blog"
         url: /blog/allposts/
