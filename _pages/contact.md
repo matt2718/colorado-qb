@@ -15,7 +15,7 @@ interest in expanding the game.
 
 **Outreach director:** Jake Boonin (Boulder High)
 
-**Webmaster:** Matt Mitchell (CU Boulder)
+**Website Admin:** Keona Schaller (CU Boulder)
 
 ## Contact 
 
