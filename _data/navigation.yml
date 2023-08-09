@@ -1,6 +1,13 @@
 linkbar:
   - title: "Home"
     url: /
+    children:
+      - title: "CU Boulder Trivia Buffs"
+        url: /cu
+      - title: "Our Team"
+        url: /team
+      - title: "Join us"
+        url: /join
   - title: "Information"
     children:
       - title: "What is Quiz Bowl?"
