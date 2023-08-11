@@ -13,7 +13,7 @@ interest in expanding the game.
 
 **Acting president:** Matt Mitchell (CU Boulder)
 
-**Outreach director:** Jake Boonin (Boulder High)
+**Outreach director:** Jason Freng (Brighton, CO)
 
 **Website Admin:** Keona Schaller (CU Boulder)
 
